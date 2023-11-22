@@ -18,5 +18,6 @@
     <EditText
         android:id="@+id/login_edit_email"
         style="@style/Theme.Instagram.FormEditText"
-        />
+        android:hint="@string/email"
+        android:inputType="textEmailAddress"/>
 </LinearLayout>
