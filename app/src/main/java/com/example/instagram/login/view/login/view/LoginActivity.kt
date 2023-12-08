@@ -1,4 +1,4 @@
-package com.example.instagram.login.view
+package com.example.instagram.login.view.login.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
